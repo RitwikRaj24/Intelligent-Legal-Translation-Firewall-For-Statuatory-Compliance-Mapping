@@ -1,0 +1,7 @@
+vault,section_id,cognizable,bailable,court,note
+bns,115,yes,yes,Any Magistrate,BNS §115(2) voluntarily causing hurt — same classification band as legacy IPC §323
+bns,351,yes,yes,Any Magistrate,BNS §351(2) base criminal intimidation — bailable; see also 351(3)
+bns,351(2),yes,yes,Any Magistrate,Base criminal intimidation
+bns,351(3),yes,no,Magistrate of the first class,Aggravated criminal intimidation (death / grievous hurt / arson etc.) — non-bailable
+ipc,323,no,yes,Any Magistrate,Legacy voluntarily causing hurt (non-cognizable / bailable under CrPC First Schedule)
+ipc,506,yes,yes,Any Magistrate,Legacy criminal intimidation base — aggravated limb may be non-bailable depending on schedule entry
